@@ -1,0 +1,23 @@
+Client: Marcus
+
+Orders:
+
+	Order #1
+	Id: 255
+	Date: Sun Mar 01 00:00:00 BRT 2020
+	Itens
+		Item 1 - Computer
+		Item 2 - Monitor
+
+	Order #2
+	Id: 256
+	Date: Thu Mar 05 00:00:00 BRT 2020
+	Itens
+		Item 1 - Keyboard
+		Item 2 - Memory Card
+		Item 3 - Headset
+
+Phones:
+	31 123 456 789
+	31 987 654 321
+	31 456 789 123
